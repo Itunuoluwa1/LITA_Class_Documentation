@@ -1,2 +1,4 @@
 # LITA_Class_Documentation
-### Project Title: Ecommerce Sales Analysis
+
+### Project Title: E commerce Sales Analysis
+
